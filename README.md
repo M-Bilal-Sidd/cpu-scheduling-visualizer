@@ -1,4 +1,6 @@
 # ⚙️ CPU Scheduling Visualizer — "Quantum Stealth" Edition
+<img width="462" height="361" alt="image" src="https://github.com/user-attachments/assets/3b4631ec-6331-437f-b89e-607a58d48214" />
+
 
 A modern desktop application built with Python and CustomTkinter to simulate and visualize classical CPU scheduling algorithms with interactive Gantt charts and performance metrics.
 
